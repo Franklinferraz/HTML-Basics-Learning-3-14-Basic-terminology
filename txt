@@ -1,0 +1,32 @@
+Basic terminology
+
+To learn more HTML, we should learn how to talk about HTML. 
+Already you have seen we use <>s a lot.
+
+Things inside <>s are called tags.
+Tags nearly always come in pairs: an opening tag and a closing tag.
+Example of opening tag: <html>
+Example of closing tag: </html>
+You can think of tags as being like parentheses: 
+whenever you open one, you should close it. 
+Tags also nest, so you should close them in the right order: 
+the most recently opened tag should be the first one closed, 
+like in the example below.
+
+<first tag><second tag>Some text!</second tag></first tag>
+
+The last exercise taught us how to set up our HTML file. 
+Everything we do now will go between <html> and </html>.
+
+Practice makes perfect! One more time:
+
+Instructions
+Put in the <!DOCTYPE HTML> tag.
+Put in the <html> opening and closing tags.
+Between the <html> tags, write whatever you like.
+Press Save & Submit Code to see what you've written appear on the page!
+
+Stuck? Get a hint!
+
+Hint
+Feel free to peek back at earlier exercises if you forget exactly what a tag looks like.
